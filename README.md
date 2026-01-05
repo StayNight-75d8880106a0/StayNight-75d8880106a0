@@ -1,7 +1,7 @@
-# 💫 RAVI AZZURA PUTRA | ラヴィ  アズラ  プトラ:
-HELLO, Saya Ravi Azzura Putra! 👋<br><br>About Me:<br><br><br>Location: Bandung, Indonesia<br><br>💼 <b>Fokus Stack: JavaScript, Node.js, Express, PHP (Laravel), Golang</b> <br><br>A Bachelor of Computer Science graduate from the Indonesian Computer University with a GPA of 3.46, interested in a career as a Backend Developer. Skilled in building RESTful APIs using Golang (Gin) and Node.js (Express.js) with a focus on system efficiency and the implementation of Docker, monorepo architecture, and artificial intelligence. Available for on-site placement and able to join immediately. As a junior developer, I am highly enthusiastic about continuously learning the latest concepts and trends in backend development. I am ready to apply my skills to contribute to innovative projects in the technology industry.<br><br>
+# 💫 RAVI AZZURA PUTRA | ⛩️ ラヴィ  アズラ  プトラ:
+HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br><br><br>Location: Bandung, Indonesia<br><br>💼 <b>Stack: JavaScript, Node.js, Express, PHP (Laravel), Golang</b> <br><br>Backend Developer with technical expertise in the Golang, Node.js, and Laravel ecosystems. Possesses a strong foundation in API development, SQL/NoSQL database management, Docker implementation, and the integration of AI services and libraries based on APIs. Actively practices programming logic and algorithms to enhance problem-solving skills and understanding of data structures. Holds a Junior Web Developer certification (BNSP) and is a graduate of the MSIB Backend Developer Bootcamp Batch 6. Eager to apply my skills in the technology industry and committed to continuous learning.
 
-<br><br><br>LinkedIn: linkedin.com/in/ravi-azzura-putra-92059227b<br>Instagram: instagram.com/ravi.azzura
+<br><br>LinkedIn: linkedin.com/in/ravi-azzura-putra-92059227b<br>Instagram: instagram.com/ravi.azzura
 
 
 ## 🌐 Socials:
@@ -27,10 +27,10 @@ HELLO, Saya Ravi Azzura Putra! 👋<br><br>About Me:<br><br><br>Location: Bandun
 
 </div>
 
-### ✍️ Random Dev Quote
+### 💭 Random Dev Quote
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 </div>
 
