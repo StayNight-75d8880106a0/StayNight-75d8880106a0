@@ -1,5 +1,5 @@
 # 💫 RAVI AZZURA PUTRA | ⛩️ ラヴィ  アズラ  プトラ:
-HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br><br><br>Location: Bandung, Indonesia<br><br>💼 <b>Stack: JavaScript, Node.js, Express, PHP (Laravel), Golang</b> <br><br>Backend Developer with technical expertise in the Golang, Node.js, and Laravel ecosystems. Possesses a strong foundation in API development, SQL/NoSQL database management, Docker implementation, and the integration of AI services and libraries based on APIs. Actively practices programming logic and algorithms to enhance problem-solving skills and understanding of data structures. Holds a Junior Web Developer certification (BNSP) and is a graduate of the MSIB Backend Developer Bootcamp Batch 6. Eager to apply my skills in the technology industry and committed to continuous learning.
+HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indonesia<br><br>💼 <b>Stack: JavaScript, Node.js, Express, PHP (Laravel), Golang</b> <br><br>Backend Developer with technical expertise in the Golang, Node.js, and Laravel ecosystems. Possesses a strong foundation in API development, SQL/NoSQL database management, Docker implementation, and the integration of AI services and libraries based on APIs. Actively practices programming logic and algorithms to enhance problem-solving skills and understanding of data structures. Holds a Junior Web Developer certification (BNSP) and is a graduate of the MSIB Backend Developer Bootcamp Batch 6. Eager to apply my skills in the technology industry and committed to continuous learning.
 
 <br><br>LinkedIn: linkedin.com/in/ravi-azzura-putra-92059227b<br>Instagram: instagram.com/ravi.azzura
 
@@ -21,11 +21,11 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br><br><br>Location: Bandung
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RaviAzzuraPutra&show_icons=true&theme=one_dark_pro&hide_border=false&cache_seconds=21600)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false)
 
 </div>
+
 
 ### 💭 Random Dev Quote
 <div align="center">
