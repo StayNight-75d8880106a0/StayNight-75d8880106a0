@@ -21,9 +21,9 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br><br><br>Location: Bandung
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&layout=compact)
 
 </div>
 
