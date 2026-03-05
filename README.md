@@ -32,13 +32,6 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indone
 
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=StayNight-75d8880106a0&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=StayNight-75d8880106a0&icon=10&color=3)](https://visitcount.itsvg.in)
 
