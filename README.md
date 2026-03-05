@@ -1,10 +1,6 @@
 # 💫 RAVI AZZURA PUTRA | ⛩️ ラヴィ  アズラ  プトラ:
 HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indonesia<br><br>💼 <b>Stack: JavaScript, Node.js, Express, PHP (Laravel), Golang</b> <br><br>Backend Developer focused on building production-grade APIs using Golang and Node.js. Hands-on experience designing clean architectures, enforcing data integrity at the API level, and shipping systems that support real operational workflows. Experienced in SQL/NoSQL databases, Docker, and integrating external and AI-based services via APIs. Trained through intensive backend programs including MSIB Backend Developer Bootcamp Batch 6 (Gamelab.id) and Sanbercode Golang Bootcamp, and holds a Junior Web Developer certification (BNSP). Excited to use my skills in the tech field and committed to continuous learning.
 
-
-<br>LinkedIn: linkedin.com/in/ravi-azzura-putra-92059227b<br>Instagram: instagram.com/ravi.azzura
-
-
 ## 🌐 Socials:
 <div align="center">
 
@@ -22,9 +18,9 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indone
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=StayNight-75d8880106a0&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=StayNight-75d8880106a0&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StayNight-75d8880106a0&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -39,11 +35,11 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indone
 ### 🔝 Top Contributed Repo
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=RaviAzzuraPutra&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=StayNight-75d8880106a0&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RaviAzzuraPutra&icon=10&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=StayNight-75d8880106a0&icon=10&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
