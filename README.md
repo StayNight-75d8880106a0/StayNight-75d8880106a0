@@ -8,7 +8,7 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indone
 ## 🌐 Socials:
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravi.azzura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raviazzuraputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravi.azzura74@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravi.azzura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raviazzuraputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravi.azzura74@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://ravi-azzura-putra-portofolio.vercel.app/)
 
 </div>
 
@@ -22,8 +22,9 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indone
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RaviAzzuraPutra&show_icons=true&theme=one_dark_pro&hide_border=false&cache_seconds=21600)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAzzuraPutra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -35,12 +36,12 @@ HELLO, I'm Ravi Azzura Putra! 👋<br><br>About Me:<br>Location: Bandung, Indone
 
 </div>
 
-<!-- ### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=RaviAzzuraPutra&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
-</div> -->
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RaviAzzuraPutra&icon=10&color=3)](https://visitcount.itsvg.in)
